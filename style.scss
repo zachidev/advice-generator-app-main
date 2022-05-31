@@ -43,7 +43,8 @@ main{
 		color: $primary-light-cyan;
 		text-align: center;
 	}
-	br{
+	hr {
+		margin-bottom: 1.5rem;
 		width: 100%;
 		height: 2rem;
 		background: url(./images/pattern-divider-mobile.svg) no-repeat center;
